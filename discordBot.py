@@ -7,7 +7,7 @@ from autotune import *
 from os import remove, path, makedirs
 from re import sub
 
-TOKEN = json.load(open("tokens.json"))["discord"]
+TOKEN = "MTA3MzA5MDkwODEzNzk3OTk2NQ.GH8rvb.prffibaWjEjKDNR8AJ2NCFuj4FLnS8RlwmrOBU"
 
 messageCheckAmount = 10
 dr = "files"
